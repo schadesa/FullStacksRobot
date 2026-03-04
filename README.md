@@ -233,6 +233,10 @@ Mascot inspired by the company **Fullstacks**
 
 https://fullstacks.io
 
+<p align="center">
+  <img src="images/crochet_mascot.png" width="350">
+</p>
+
 ---
 
 # Yarn
