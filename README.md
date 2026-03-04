@@ -1,375 +1,247 @@
-# FULLSTACKS MINI-ROBOTER – HÄKEL- & NÄHANLEITUNG
+# 🧶 Fullstacks Crochet Mascot
 
-**Größe:** ca. 14–15 cm  
-**Garn:** [Gründl Cotton Quick uni](https://www.gruendl.com/cotton-quick-uni/)  
-**Häkelnadel:** 2,5 mm  
-**Technik:** feste Maschen (Amigurumi)
+Crochet pattern for a small robot mascot inspired by  
+[Fullstacks](https://fullstacks.io).
 
-**Inspiration / Marke:** [Fullstacks](https://fullstacks.io)
+The mascot is designed as a **mini amigurumi robot (~15 cm)** and uses the brand colors of Fullstacks.
 
 ---
 
-# FARBZUORDNUNG
+# Preview
 
-Verwendet wird **Gründl Cotton Quick uni**.
+<p align="center">
+  <img src="images/mascot_front.png" width="250">
+  <img src="images/mascot_side.png" width="250">
+  <img src="images/mascot_back.png" width="250">
+</p>
 
-| Farbe | Garn |
+---
+
+# Crochet Version
+
+<p align="center">
+  <img src="images/crochet_mascot.png" width="350">
+</p>
+
+---
+
+# Materials
+
+Recommended yarn:
+
+**Gründl Cotton Quick uni**  
+https://www.gruendl.com/cotton-quick-uni/
+
+Suggested colors:
+
+| Color | Usage |
 |------|------|
-| Lichtgrau | Kopf |
-| Schwarz | Arme, Beine, Füße, Kopfhörer-Rand & -Bügel, Laptop-Naht, Erde |
-| Smaragd | Stirnband-Basis, Logo-Teile, Ohrpolster außen |
-| Mittelblau | Körpersegment, Ohrpolster innen, Laptop-Bildschirm |
-| Maisgelb | Körpersegment |
-| Hellgrün | Körpersegment, Pflanze |
-| Karotte | Körpersegment, Blumentopf |
-| Silbergrau | Laptop-Unterteil |
+| Light Grey | Head |
+| Black | Arms, legs, headphones, laptop seam |
+| Emerald | Headband, logo elements, headphone outside |
+| Medium Blue | Body segment, headphone inside, laptop screen |
+| Yellow | Body segment |
+| Light Green | Body segment, plant |
+| Orange | Body segment, flower pot |
+| Silver Grey | Laptop |
 
-Garnübersicht:  
+Other materials:
+
+- Crochet hook **2.5 mm**
+- Fiberfill stuffing
+- Stitch marker
+- Yarn needle
+
+---
+
+# Finished Size
+
+Approximately **14–15 cm height**
+
+---
+
+# Pattern Structure
+
+The mascot consists of the following parts:
+
+1. Head  
+2. Headband  
+3. Logo (3 parts)  
+4. Headphones  
+5. Body  
+6. Legs  
+7. Arms with thumb  
+8. Laptop  
+9. Plant
+
+---
+
+# Crochet Pattern
+
+## Abbreviations
+
+| Abbreviation | Meaning |
+|---------------|--------|
+| MR | Magic Ring |
+| sc | single crochet |
+| BLO | back loop only |
+| FLO | front loop only |
+
+---
+
+# Head
+
+Color: Light Grey  
+Technique: Spiral
+
+Round 1: MR, 6 sc (6)  
+Round 2: increase each stitch (12)  
+Round 3: (1 sc, inc) ×6 (18)  
+Round 4: (2 sc, inc) ×6 (24)  
+Round 5: (3 sc, inc) ×6 (30)  
+Round 6: (4 sc, inc) ×6 (36)  
+Round 7: (5 sc, inc) ×6 (42)  
+Round 8: (6 sc, inc) ×6 (48)
+
+Round 9–11: 48 sc  
+Round 12: 48 sc BLO
+
+Round 13: (6 sc, dec) ×6 (42)  
+Round 14: 42 sc  
+Round 15: (6 sc, inc) ×6 (48)  
+Round 16: 48 sc
+
+Round 17: (6 sc, dec) ×6 (42)  
+Round 18: (5 sc, dec) ×6 (36)  
+Round 19: (4 sc, dec) ×6 (30)
+
+Stuff firmly.
+
+Round 20: (3 sc, dec) ×6 (24)  
+Round 21: (2 sc, dec) ×6 (18)  
+Round 22: (1 sc, dec) ×6 (12)  
+Round 23: dec ×6 (6)
+
+Close.
+
+---
+
+# Headband
+
+Color: Emerald / Black
+
+Emerald:
+
+Round 1: MR, 6 sc  
+Round 2: inc each stitch (12)  
+Round 3: (1 sc, inc) ×6 (18)  
+Round 4: (2 sc, inc) ×6 (24)  
+Round 5: (3 sc, inc) ×6 (30)  
+Round 6: (4 sc, inc) ×6 (36)  
+Round 7: (5 sc, inc) ×6 (42)  
+Round 8: (6 sc, inc) ×6 (48)  
+Round 9: (7 sc, inc) ×6 (54)
+
+Black:
+
+Round 10: 54 sc BLO  
+Round 11–13: 54 sc
+
+---
+
+# Logo
+
+Color: Emerald
+
+Three separate parts:
+
+### Center bar
+
+4 ch  
+Row 1: 3 sc  
+Row 2: 3 sc  
+Row 3: 3 sc
+
+### Upper bar
+
+3 ch  
+Row 1: 2 sc  
+Row 2: 2 sc  
+Row 3: sc under row 1
+
+### Lower bar
+
+7 ch  
+Row 1: 6 sc  
+Row 2: 6 sc  
+Row 3: sc under row 1
+
+Sew together to form the logo.
+
+---
+
+# Laptop
+
+Color: Silver Grey
+
+12 ch
+
+Row 1–7: 11 sc, turn
+
+Turn work
+
+Row 8: 11 sc BLO  
+Row 9: 11 sc FLO
+
+Row 10–16: 11 sc
+
+Fold along BLO/FLO rows and lightly stuff.
+
+Close edges with black sc.
+
+### Keyboard
+
+8 ch  
+Row 1: 7 sc  
+Row 2–3: 7 sc
+
+### Screen
+
+12 ch  
+Row 1–7: 11 sc
+
+Attach to the inner top edge.
+
+---
+
+# Assembly
+
+1. Sew logo pieces together  
+2. Attach logo to headband  
+3. Sew headband to head  
+4. Attach headphones  
+5. Sew head to body  
+6. Attach legs  
+7. Attach arms  
+8. Sew laptop into left hand  
+9. Attach plant
+
+---
+
+# Credits
+
+Mascot inspired by the company **Fullstacks**
+
+https://fullstacks.io
+
+---
+
+# Yarn
+
+Pattern designed using:
+
+**Gründl Cotton Quick uni**
+
 https://www.gruendl.com/cotton-quick-uni/
 
 ---
-
-# GRUNDREGELN
-
-## Spirale
-- im Kreis häkeln  
-- keine Luft- oder Kettmasche  
-- Maschenmarker immer in die **1. Masche der Runde**
-
-## Reihen
-- am Reihenende **1 Luftmasche**, wenden  
-- Luftmasche zählt **nicht** als Masche
-
-## Abkürzungen
-
-| Abkürzung | Bedeutung |
-|-----------|-----------|
-| fM | feste Masche |
-| BLO | hinteres Maschenglied |
-| FLO | vorderes Maschenglied |
-
----
-
-# ORIENTIERUNG
-
-**Kopf**
-
-- Marker = Hinterkopf  
-- Front-Mitte = Masche 24 (bei 48 Maschen)
-
-**Körper**
-
-- Marker = Front-Mitte (Bauch)
-
----
-
-# TEIL A – KOPF
-**Farbe:** Lichtgrau  
-**Technik:** Spirale
-
-Runde 1: Magic Ring, 6 fM (6)  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: *1 fM, zunehmen* ×6 (18)  
-Runde 4: *2 fM, zunehmen* ×6 (24)  
-Runde 5: *3 fM, zunehmen* ×6 (30)  
-Runde 6: *4 fM, zunehmen* ×6 (36)  
-Runde 7: *5 fM, zunehmen* ×6 (42)  
-Runde 8: *6 fM, zunehmen* ×6 (48)
-
-Runde 9–11: 48 fM  
-Runde 12: 48 fM BLO  
-
-Runde 13: *6 fM, abnehmen* ×6 (42)  
-Runde 14: 42 fM  
-Runde 15: *6 fM, zunehmen* ×6 (48)  
-Runde 16: 48 fM  
-
-Runde 17: *6 fM, abnehmen* ×6 (42)  
-Runde 18: *5 fM, abnehmen* ×6 (36)  
-Runde 19: *4 fM, abnehmen* ×6 (30)
-
-Kopf fest stopfen, Kanten eckig formen.
-
-Runde 20: *3 fM, abnehmen* ×6 (24)  
-Runde 21: *2 fM, abnehmen* ×6 (18)  
-Runde 22: *1 fM, abnehmen* ×6 (12)  
-Runde 23: 6× abnehmen (6), schließen.
-
-## Augen
-
-Zwischen Runde 11–12  
-- rechts: Masche 21–22  
-- links: Masche 27–28  
-
-## Formnähte
-
-- Front: Masche 24  
-- hinten: Marker  
-- links: Masche 12  
-- rechts: Masche 36  
-
-Fäden jeweils bis Runde 6–7 führen und leicht anziehen.
-
----
-
-# TEIL B – STIRNBAND
-**Farben:** Smaragd, Schwarz  
-**Technik:** Spirale
-
-## Smaragd
-
-Runde 1: MR, 6 fM  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: *1 fM, zunehmen* ×6 (18)  
-Runde 4: *2 fM, zunehmen* ×6 (24)  
-Runde 5: *3 fM, zunehmen* ×6 (30)  
-Runde 6: *4 fM, zunehmen* ×6 (36)  
-Runde 7: *5 fM, zunehmen* ×6 (42)  
-Runde 8: *6 fM, zunehmen* ×6 (48)  
-Runde 9: *7 fM, zunehmen* ×6 (54)
-
-## Schwarz
-
-Runde 10: 54 fM BLO  
-Runde 11: 54 fM  
-Runde 12: 54 fM  
-Runde 13: 54 fM  
-
-Faden lang lassen.
-
----
-
-# TEIL C – LOGO (3 EINZELTEILE)
-**Farbe:** Smaragd  
-**Technik:** Reihen  
-Alle Teile flach häkeln.
-
----
-
-## C1 – Mittlerer Balken
-
-4 Luftmaschen  
-
-Reihe 1: ab 2. LM 3 fM, 1 LM, wenden  
-Reihe 2: 3 fM, 1 LM, wenden  
-Reihe 3: 3 fM
-
----
-
-## C2 – Oberer Balken
-
-3 Luftmaschen  
-
-Reihe 1: ab 2. LM 2 fM, 1 LM, wenden  
-Reihe 2: 2 fM  
-Reihe 3: 2 fM unter die Maschen von Reihe 1
-
----
-
-## C3 – Unterer Balken
-
-7 Luftmaschen  
-
-Reihe 1: ab 2. LM 6 fM, 1 LM, wenden  
-Reihe 2: 6 fM  
-Reihe 3: 6 fM unter die Maschen von Reihe 1
-
----
-
-## Logo zusammensetzen
-
-- C1 mittig platzieren  
-- C2 oberhalb von C1 linksbündig  
-- C3 unterhalb von C1 linksbündig  
-
-### Position auf Stirnband
-
-- mittig vorne (Masche 27–28)  
-- obere Kante 6 Maschen unter Stirnband-Oberkante  
-- vollständig auf schwarzem Bereich
-
----
-
-# TEIL D – KOPFHÖRER
-
-## Ohrpolster (2×)
-
-### Innen – Mittelblau
-
-Runde 1: MR, 6 fM  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: *1 fM, zunehmen* ×6 (18)
-
-### Außen – Smaragd
-
-Runde 4: 18 fM  
-Runde 5: 18 fM  
-
-### Rand – Schwarz
-
-Runde 6: 18 fM  
-Runde 7: 18 fM  
-
-Leicht stopfen und flach drücken.
-
----
-
-## Kopfhörer-Bügel
-
-**Farbe:** Schwarz
-
-30 Luftmaschen  
-
-Reihe 1: ab 2. LM 29 fM, 1 LM, wenden  
-Reihe 2: 29 fM  
-
-Runde 3: einmal komplett mit fM umrunden  
-- an den kurzen Seiten je 3 fM  
-
-Runde 4: fM unter die Maschen von Reihe 1
-
-Leicht biegen.
-
----
-
-# TEIL E – KÖRPER
-
-Schwarz  
-Runde 1: MR, 6 fM  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: *1 fM, zunehmen* ×6 (18)  
-Runde 4: *2 fM, zunehmen* ×6 (24)  
-Runde 5: *3 fM, zunehmen* ×6 (30)  
-Runde 6: 30 fM  
-
-Mittelblau  
-Runde 7: *4 fM, zunehmen* ×6 (36) BLO  
-Runde 8–10: 36 fM  
-
-Maisgelb  
-Runde 11: *5 fM, zunehmen* ×6 (42) BLO  
-Runde 12–14: 42 fM  
-
-Hellgrün  
-Runde 15: *6 fM, zunehmen* ×6 (48) BLO  
-Runde 16–18: 48 fM  
-
-Karotte  
-Runde 19: *7 fM, zunehmen* ×6 (54) BLO  
-Runde 20–22: 54 fM  
-
-Schwarz  
-Runde 23: *7 fM, abnehmen* ×6 (48) BLO  
-Runde 24: *5 fM, abnehmen* ×8 (40)
-
-Stopfen.
-
-Runde 25: *3 fM, abnehmen* ×8 (32)  
-Runde 26: *2 fM, abnehmen* ×8 (24)  
-Runde 27: *1 fM, abnehmen* ×8 (16)  
-Runde 28: 8× abnehmen (8)
-
----
-
-# TEIL F – BEINE (2×)
-
-**Farbe:** Schwarz
-
-Runde 1: MR, 6 fM  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: *1 fM, zunehmen* ×6 (18)  
-Runde 4: *2 fM, zunehmen* ×6 (24)  
-Runde 5: 24 fM BLO  
-Runde 6: *2 fM, abnehmen* ×6 (18)  
-Runde 7: *1 fM, abnehmen* ×6 (12)  
-Runde 8–11: 12 fM  
-
----
-
-# TEIL G – ARME MIT DAUMEN (2×)
-
-**Farbe:** Schwarz
-
-Runde 1: MR, 6 fM  
-Runde 2: *1 fM, zunehmen* ×3 (9)  
-Runde 3: *2 fM, zunehmen* ×3 (12)  
-Runde 4–5: 12 fM  
-
-Runde 6:  
-3 fM, 3 LM, zurück:  
-1 fM in 2. LM, 1 fM in nächste  
-
-Runde 7: *2 fM, abnehmen* ×3 (9)  
-Runde 8–15: 9 fM  
-
----
-
-# TEIL H – LAPTOP
-
-**Farbe:** Silbergrau
-
-12 Luftmaschen  
-
-Reihe 1–7: ab 2. LM 11 fM, 1 LM, wenden  
-
-Reihe 8: 11 fM BLO, 1 LM, wenden  
-Reihe 9: 11 fM FLO, 1 LM, wenden  
-
-Reihe 10–16: 11 fM, 1 LM, wenden  
-
-Laptop entlang der BLO/FLO-Reihen falten und dünn füllen.  
-Seiten und Unterkante mit schwarzen festen Maschen schließen.
-
-## Tastatur
-
-8 LM  
-Reihe 1: ab 2. LM 7 fM  
-Reihe 2–3: 7 fM  
-
-## Bildschirm
-
-12 LM  
-
-Reihe 1–7: ab 2. LM 11 fM  
-
----
-
-# TEIL I – PFLANZE
-
-## Topf – Karotte
-
-Runde 1: MR, 6 fM  
-Runde 2: jede Masche zunehmen (12)  
-Runde 3: 12 fM  
-Runde 4: 12 fM BLO  
-
-Runde 5: 12 fM Lichtgrau  
-Runde 6: 12 fM Silbergrau  
-
-## Erde
-
-1 Runde fM Schwarz
-
-## Blätter (3×)
-
-6 LM  
-fM – hStb – Stb – hStb – fM
-
----
-
-# ZUSAMMENNÄHEN – REIHENFOLGE
-
-1. Logo-Teile zusammennähen  
-2. Logo auf Stirnband nähen  
-3. Stirnband auf Kopf nähen  
-4. Ohrpolster und Bügel annähen  
-5. Kopf auf Körper nähen  
-6. Beine an Körper Runde 19  
-7. Arme an Körper Runde 7  
-8. Laptop in linke Hand nähen  
-9. Pflanze annähen  
-
----
-
-**Projekt:** inspiriert von [Fullstacks](https://fullstacks.io)  
-**Garn:** [Gründl Cotton Quick uni](https://www.gruendl.com/cotton-quick-uni/)
