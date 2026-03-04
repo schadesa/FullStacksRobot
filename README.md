@@ -1,9 +1,9 @@
-# 🧶 FullStacks Crochet Mascot
+# 🧶 FULLSTACKS Crochet Mascot
 
 Crochet pattern for a small robot mascot inspired by  
-[FullStacks](https://fullstacks.io).
+[FULLSTACKS](https://fullstacks.io).
 
-The mascot is designed as a **mini amigurumi robot (~15 cm)** and follows the visual identity of **FullStacks**.
+The mascot is designed as a **mini amigurumi robot (~15 cm)** and follows the visual identity of **FULLSTACKS**.
 
 Brand reference:  
 https://fullstacks.io/brand-kit/
@@ -12,8 +12,8 @@ https://fullstacks.io/brand-kit/
 
 ## 🎨 Color Concept
 
-- All non-body elements follow the **primary FullStacks brand colors**
-- The **robot body represents the stack colors** of FullStacks
+- All non-body elements follow the **primary FULLSTACKS brand colors**
+- The **robot body represents the stack colors** of FULLSTACKS
 
 > ⚠️ **Note**  
 > The instructions are **not 100% perfect**.  
@@ -258,7 +258,7 @@ Attach to the inner top edge.
 
 # Credits
 
-Mascot inspired by **FullStacks**
+Mascot inspired by **FULLSTACKS**
 
 Website  
 https://fullstacks.io
