@@ -18,7 +18,8 @@ The mascot is designed as a **mini amigurumi robot (~15 cm)** and uses the brand
 # Crochet Version
 
 <p align="center">
-  <img src="images/crochet_mascot.png" width="350">
+  <img src="images/crochet_mascot_front.png" width="350">
+   <img src="images/crochet_mascot_back.png" width="350">
 </p>
 
 ---
