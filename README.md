@@ -25,20 +25,21 @@ https://fullstacks.io/brand-kit/
 
 ---
 
-# Real Finished Versions
-
-<p align="center">
-  <img src="./images/fullstackies_finished.png" width="700"/>
-</p>
-
----
-
 # Crochet Version
 
 <p align="center">
   <img src="./images/crochet_mascot_front.png" width="350"/>
   <img src="./images/crochet_mascot_back.png" width="350"/>
 </p>
+
+---
+
+# Real Finished Versions
+
+<p align="center">
+  <img src="./images/fullstackies_finished.png" width="700"/>
+</p>
+
 
 ---
 
