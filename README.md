@@ -84,17 +84,15 @@ Approximately **14–15 cm height**
 
 # Pattern Structure
 
-The mascot consists of the following parts:
-
-1. Head  
-2. Headband  
-3. Logo (3 parts)  
-4. Headphones  
-5. Body  
-6. Legs  
-7. Arms with thumb  
-8. Laptop  
-9. Plant  
+1. 🤖 Head  
+2. 🎧 Headband  
+3. 🟩 Logo  
+4. 🎧 Headphones  
+5. 🧱 Body  
+6. 🦿 Legs  
+7. 💪 Arms with thumb  
+8. 💻 Laptop  
+9. 🌱 Plant  
 
 ---
 
@@ -111,7 +109,7 @@ The mascot consists of the following parts:
 
 ---
 
-# Head
+# 🤖 Head
 
 ⚪ **Color:** Light Grey  
 Technique: Spiral
@@ -148,9 +146,9 @@ Close.
 
 ---
 
-# Headband
+# 🎧 Headband
 
-🟢 **Emerald**
+🟢 **Color:** Emerald
 
 Round 1: MR, 6 sc  
 Round 2: inc each stitch (12)  
@@ -169,7 +167,7 @@ Round 11–13: 54 sc
 
 ---
 
-# Logo
+# 🟩 Logo
 
 🟢 **Color:** Emerald
 
@@ -200,7 +198,7 @@ Sew together to form the logo.
 
 ---
 
-# Laptop
+# 💻 Laptop
 
 🩶 **Base:** Silver Grey  
 ⚫ **Seam:** Black  
@@ -225,8 +223,6 @@ Fold along BLO/FLO rows and lightly stuff.
 
 Close edges with **⚫ black sc**.
 
----
-
 ## Keyboard
 
 🩶 Silver Grey
@@ -234,8 +230,6 @@ Close edges with **⚫ black sc**.
 8 ch  
 Row 1: 7 sc  
 Row 2–3: 7 sc
-
----
 
 ## Screen
 
@@ -248,7 +242,7 @@ Attach to the inner top edge.
 
 ---
 
-# Assembly
+# 🔧 Assembly
 
 1. Sew logo pieces together  
 2. Attach logo to headband  
