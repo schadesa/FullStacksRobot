@@ -10,9 +10,7 @@ The mascot is designed as a **mini amigurumi robot (~15 cm)** and uses the brand
 # Preview
 
 <p align="center">
-  <img src="images/mascot_front.png" width="250">
-  <img src="images/mascot_side.png" width="250">
-  <img src="images/mascot_back.png" width="250">
+  <img src="images/mascot.png" width="350">
 </p>
 
 ---
