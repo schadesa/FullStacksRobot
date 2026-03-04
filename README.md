@@ -1,9 +1,14 @@
-# 🧶 Fullstacks Crochet Mascot
+# 🧶 FullStacks Crochet Mascot
 
 Crochet pattern for a small robot mascot inspired by  
-[Fullstacks](https://fullstacks.io).
+[FullStacks](https://fullstacks.io).
 
-The mascot is designed as a **mini amigurumi robot (~15 cm)** and uses the brand colors of Fullstacks.
+The mascot is designed as a **mini amigurumi robot (~15 cm)** and follows the visual identity of **FullStacks**.
+
+Brand reference:  
+https://fullstacks.io/brand-kit/
+
+The **robot body represents the stack colors**, while all other elements follow the **primary FullStacks brand colors**.
 
 ---
 
@@ -12,6 +17,7 @@ The mascot is designed as a **mini amigurumi robot (~15 cm)** and uses the brand
 <p align="center">
   <img src="./images/mascot.png" width="350"/>
 </p>
+
 ---
 
 # Crochet Version
@@ -37,10 +43,10 @@ Suggested colors:
 | Light Grey | Head |
 | Black | Arms, legs, headphones, laptop seam |
 | Emerald | Headband, logo elements, headphone outside |
-| Medium Blue | Body segment, headphone inside, laptop screen |
-| Yellow | Body segment |
-| Light Green | Body segment, plant |
-| Orange | Body segment, flower pot |
+| Medium Blue | Body segment (stack color), headphone inside, laptop screen |
+| Yellow | Body segment (stack color) |
+| Light Green | Body segment (stack color), plant |
+| Orange | Body segment (stack color), flower pot |
 | Silver Grey | Laptop |
 
 Other materials:
@@ -70,7 +76,7 @@ The mascot consists of the following parts:
 6. Legs  
 7. Arms with thumb  
 8. Laptop  
-9. Plant
+9. Plant  
 
 ---
 
@@ -228,9 +234,13 @@ Attach to the inner top edge.
 
 # Credits
 
-Mascot inspired by the company **Fullstacks**
+Mascot inspired by **FullStacks**
 
+Website:  
 https://fullstacks.io
+
+Brand guidelines:  
+https://fullstacks.io/brand-kit/
 
 <p align="center">
   <img src="./images/crochet_mascot.png" width="350"/>
