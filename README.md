@@ -8,7 +8,12 @@ The mascot is designed as a **mini amigurumi robot (~15 cm)** and follows the vi
 Brand reference:  
 https://fullstacks.io/brand-kit/
 
-The **robot body represents the stack colors**, while all other elements follow the **primary FullStacks brand colors**.
+🎨 **Color concept**
+- All non-body elements follow the **primary FullStacks brand colors**.
+- The **robot body represents the stack colors** of FullStacks.
+
+> ⚠️ **Note:** The instructions are **not 100% perfect** (some steps may need small adjustments depending on your tension and yarn).  
+> The **finished figure may look a bit different** than the illustrations/pattern parts.
 
 ---
 
@@ -16,6 +21,14 @@ The **robot body represents the stack colors**, while all other elements follow 
 
 <p align="center">
   <img src="./images/mascot.png" width="350"/>
+</p>
+
+---
+
+# Real Finished Versions
+
+<p align="center">
+  <img src="./images/fullstackies_finished.png" width="700"/>
 </p>
 
 ---
@@ -40,10 +53,10 @@ Suggested colors:
 
 | Color | Usage |
 |------|------|
-| Light Grey | Head |
+| Light Grey | Head, **laptop screen** |
 | Black | Arms, legs, headphones, laptop seam |
 | Emerald | Headband, logo elements, headphone outside |
-| Medium Blue | Body segment (stack color), headphone inside, laptop screen |
+| Medium Blue | Body segment (stack color), headphone inside |
 | Yellow | Body segment (stack color) |
 | Light Green | Body segment (stack color), plant |
 | Orange | Body segment (stack color), flower pot |
@@ -186,10 +199,11 @@ Sew together to form the logo.
 
 # Laptop
 
-Color: Silver Grey
+Color: Silver Grey (base) + Black (seam) + Light Grey (screen)
 
-12 ch
+## Base
 
+12 ch  
 Row 1–7: 11 sc, turn
 
 Turn work
@@ -201,15 +215,15 @@ Row 10–16: 11 sc
 
 Fold along BLO/FLO rows and lightly stuff.
 
-Close edges with black sc.
+Close edges with **black sc**.
 
-### Keyboard
+## Keyboard (Silver Grey)
 
 8 ch  
 Row 1: 7 sc  
 Row 2–3: 7 sc
 
-### Screen
+## Screen (**Light Grey**)
 
 12 ch  
 Row 1–7: 11 sc
@@ -255,5 +269,3 @@ Pattern designed using:
 **Gründl Cotton Quick uni**
 
 https://www.gruendl.com/cotton-quick-uni/
-
----
