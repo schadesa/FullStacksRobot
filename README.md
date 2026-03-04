@@ -8,12 +8,17 @@ The mascot is designed as a **mini amigurumi robot (~15 cm)** and follows the vi
 Brand reference:  
 https://fullstacks.io/brand-kit/
 
-🎨 **Color concept**
-- All non-body elements follow the **primary FullStacks brand colors**.
-- The **robot body represents the stack colors** of FullStacks.
+---
 
-> ⚠️ **Note:** The instructions are **not 100% perfect** (some steps may need small adjustments depending on your tension and yarn).  
-> The **finished figure may look a bit different** than the illustrations/pattern parts.
+## 🎨 Color Concept
+
+- All non-body elements follow the **primary FullStacks brand colors**
+- The **robot body represents the stack colors** of FullStacks
+
+> ⚠️ **Note**  
+> The instructions are **not 100% perfect**.  
+> Depending on yarn tension and technique, **small adjustments may be required**.  
+> The finished figure may therefore **look slightly different** from the illustrations.
 
 ---
 
@@ -40,7 +45,6 @@ https://fullstacks.io/brand-kit/
   <img src="./images/fullstackies_finished.png" width="700"/>
 </p>
 
-
 ---
 
 # Materials
@@ -50,20 +54,20 @@ Recommended yarn:
 **Gründl Cotton Quick uni**  
 https://www.gruendl.com/cotton-quick-uni/
 
-Suggested colors:
+### Suggested colors
 
 | Color | Usage |
 |------|------|
-| Light Grey | Head, **laptop screen** |
-| Black | Arms, legs, headphones, laptop seam |
-| Emerald | Headband, logo elements, headphone outside |
-| Medium Blue | Body segment (stack color), headphone inside |
-| Yellow | Body segment (stack color) |
-| Light Green | Body segment (stack color), plant |
-| Orange | Body segment (stack color), flower pot |
-| Silver Grey | Laptop |
+| ⚪ Light Grey | Head, laptop screen |
+| ⚫ Black | Arms, legs, headphones, laptop seam |
+| 🟢 Emerald | Headband, logo elements, headphone outside |
+| 🔵 Medium Blue | Body segment (stack color), headphone inside |
+| 🟡 Yellow | Body segment (stack color) |
+| 🟩 Light Green | Body segment (stack color), plant |
+| 🟠 Orange | Body segment (stack color), flower pot |
+| 🩶 Silver Grey | Laptop |
 
-Other materials:
+### Other materials
 
 - Crochet hook **2.5 mm**
 - Fiberfill stuffing
@@ -109,7 +113,7 @@ The mascot consists of the following parts:
 
 # Head
 
-Color: Light Grey  
+⚪ **Color:** Light Grey  
 Technique: Spiral
 
 Round 1: MR, 6 sc (6)  
@@ -146,9 +150,7 @@ Close.
 
 # Headband
 
-Color: Emerald / Black
-
-Emerald:
+🟢 **Emerald**
 
 Round 1: MR, 6 sc  
 Round 2: inc each stitch (12)  
@@ -160,7 +162,7 @@ Round 7: (5 sc, inc) ×6 (42)
 Round 8: (6 sc, inc) ×6 (48)  
 Round 9: (7 sc, inc) ×6 (54)
 
-Black:
+⚫ **Black**
 
 Round 10: 54 sc BLO  
 Round 11–13: 54 sc
@@ -169,9 +171,9 @@ Round 11–13: 54 sc
 
 # Logo
 
-Color: Emerald
+🟢 **Color:** Emerald
 
-Three separate parts:
+Three separate parts.
 
 ### Center bar
 
@@ -200,11 +202,14 @@ Sew together to form the logo.
 
 # Laptop
 
-Color: Silver Grey (base) + Black (seam) + Light Grey (screen)
+🩶 **Base:** Silver Grey  
+⚫ **Seam:** Black  
+⚪ **Screen:** Light Grey
 
 ## Base
 
-12 ch  
+12 ch
+
 Row 1–7: 11 sc, turn
 
 Turn work
@@ -216,15 +221,23 @@ Row 10–16: 11 sc
 
 Fold along BLO/FLO rows and lightly stuff.
 
-Close edges with **black sc**.
+Close edges with **⚫ black sc**.
 
-## Keyboard (Silver Grey)
+---
+
+## Keyboard
+
+🩶 Silver Grey
 
 8 ch  
 Row 1: 7 sc  
 Row 2–3: 7 sc
 
-## Screen (**Light Grey**)
+---
+
+## Screen
+
+⚪ Light Grey
 
 12 ch  
 Row 1–7: 11 sc
@@ -251,10 +264,10 @@ Attach to the inner top edge.
 
 Mascot inspired by **FullStacks**
 
-Website:  
+Website  
 https://fullstacks.io
 
-Brand guidelines:  
+Brand guidelines  
 https://fullstacks.io/brand-kit/
 
 <p align="center">
