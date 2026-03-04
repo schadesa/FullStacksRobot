@@ -208,6 +208,8 @@ Sew together to form the logo.
 
 ## Base
 
+🩶 **Color:** Silver Grey
+
 12 ch
 
 Row 1–7: 11 sc, turn
