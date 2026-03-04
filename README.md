@@ -1,22 +1,31 @@
 # FULLSTACKS MINI-ROBOTER – HÄKEL- & NÄHANLEITUNG
 
 **Größe:** ca. 14–15 cm  
-**Garn:** Gründl Cotton Quick uni  
+**Garn:** [Gründl Cotton Quick uni](https://www.gruendl.com/cotton-quick-uni/)  
 **Häkelnadel:** 2,5 mm  
 **Technik:** feste Maschen (Amigurumi)
+
+**Inspiration / Marke:** [Fullstacks](https://fullstacks.io)
 
 ---
 
 # FARBZUORDNUNG
 
-- **Lichtgrau:** Kopf  
-- **Schwarz:** Arme, Beine, Füße, Kopfhörer-Rand & -Bügel, Laptop-Naht, Erde  
-- **Smaragd:** Stirnband-Basis, Logo-Teile, Ohrpolster außen  
-- **Mittelblau:** Körpersegment, Ohrpolster innen, Laptop-Bildschirm  
-- **Maisgelb:** Körpersegment  
-- **Hellgrün:** Körpersegment, Pflanze  
-- **Karotte:** Körpersegment, Blumentopf  
-- **Silbergrau:** Laptop-Unterteil  
+Verwendet wird **Gründl Cotton Quick uni**.
+
+| Farbe | Garn |
+|------|------|
+| Lichtgrau | Kopf |
+| Schwarz | Arme, Beine, Füße, Kopfhörer-Rand & -Bügel, Laptop-Naht, Erde |
+| Smaragd | Stirnband-Basis, Logo-Teile, Ohrpolster außen |
+| Mittelblau | Körpersegment, Ohrpolster innen, Laptop-Bildschirm |
+| Maisgelb | Körpersegment |
+| Hellgrün | Körpersegment, Pflanze |
+| Karotte | Körpersegment, Blumentopf |
+| Silbergrau | Laptop-Unterteil |
+
+Garnübersicht:  
+https://www.gruendl.com/cotton-quick-uni/
 
 ---
 
@@ -224,10 +233,8 @@ Leicht biegen.
 ---
 
 # TEIL E – KÖRPER
-**Technik:** Spirale
 
-## Schwarz
-
+Schwarz  
 Runde 1: MR, 6 fM  
 Runde 2: jede Masche zunehmen (12)  
 Runde 3: *1 fM, zunehmen* ×6 (18)  
@@ -235,28 +242,23 @@ Runde 4: *2 fM, zunehmen* ×6 (24)
 Runde 5: *3 fM, zunehmen* ×6 (30)  
 Runde 6: 30 fM  
 
-## Mittelblau
-
+Mittelblau  
 Runde 7: *4 fM, zunehmen* ×6 (36) BLO  
 Runde 8–10: 36 fM  
 
-## Maisgelb
-
+Maisgelb  
 Runde 11: *5 fM, zunehmen* ×6 (42) BLO  
 Runde 12–14: 42 fM  
 
-## Hellgrün
-
+Hellgrün  
 Runde 15: *6 fM, zunehmen* ×6 (48) BLO  
 Runde 16–18: 48 fM  
 
-## Karotte
-
+Karotte  
 Runde 19: *7 fM, zunehmen* ×6 (54) BLO  
 Runde 20–22: 54 fM  
 
-## Schwarz
-
+Schwarz  
 Runde 23: *7 fM, abnehmen* ×6 (48) BLO  
 Runde 24: *5 fM, abnehmen* ×8 (40)
 
@@ -271,8 +273,7 @@ Runde 28: 8× abnehmen (8)
 
 # TEIL F – BEINE (2×)
 
-**Farbe:** Schwarz  
-**Technik:** Spirale
+**Farbe:** Schwarz
 
 Runde 1: MR, 6 fM  
 Runde 2: jede Masche zunehmen (12)  
@@ -287,8 +288,7 @@ Runde 8–11: 12 fM
 
 # TEIL G – ARME MIT DAUMEN (2×)
 
-**Farbe:** Schwarz  
-**Technik:** Spirale
+**Farbe:** Schwarz
 
 Runde 1: MR, 6 fM  
 Runde 2: *1 fM, zunehmen* ×3 (9)  
@@ -306,39 +306,31 @@ Runde 8–15: 9 fM
 
 # TEIL H – LAPTOP
 
-**Farbe:** Silbergrau  
-**Technik:** Reihen
+**Farbe:** Silbergrau
 
 12 Luftmaschen  
 
 Reihe 1–7: ab 2. LM 11 fM, 1 LM, wenden  
 
-wenden  
-
 Reihe 8: 11 fM BLO, 1 LM, wenden  
 Reihe 9: 11 fM FLO, 1 LM, wenden  
 
 Reihe 10–16: 11 fM, 1 LM, wenden  
-(in Reihe 16 keine LM)
 
-Laptop entlang der BLO/FLO-Reihen falten.  
-Sehr dünn füllen.
-
-Seiten und Unterkante mit **schwarzen festen Maschen** schließen.
+Laptop entlang der BLO/FLO-Reihen falten und dünn füllen.  
+Seiten und Unterkante mit schwarzen festen Maschen schließen.
 
 ## Tastatur
 
 8 LM  
-Reihe 1: ab 2. LM 7 fM, 1 LM, wenden  
+Reihe 1: ab 2. LM 7 fM  
 Reihe 2–3: 7 fM  
 
 ## Bildschirm
 
 12 LM  
 
-Reihe 1–7: ab 2. LM 11 fM, 1 LM, wenden  
-
-Nur an der oberen Innenkante annähen.
+Reihe 1–7: ab 2. LM 11 fM  
 
 ---
 
@@ -375,4 +367,9 @@ fM – hStb – Stb – hStb – fM
 6. Beine an Körper Runde 19  
 7. Arme an Körper Runde 7  
 8. Laptop in linke Hand nähen  
-9. Pflanze annähen
+9. Pflanze annähen  
+
+---
+
+**Projekt:** inspiriert von [Fullstacks](https://fullstacks.io)  
+**Garn:** [Gründl Cotton Quick uni](https://www.gruendl.com/cotton-quick-uni/)
